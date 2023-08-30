@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cañas"
+  given-names: "Luis"
+title: "Thematic Analysis code snippeds"
+version: 1.0.0
+date-released: 2023-09-01
+url: "https://github.com/luis11181/Thematic-Analisys"
