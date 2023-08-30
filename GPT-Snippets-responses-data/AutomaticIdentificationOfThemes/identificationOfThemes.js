@@ -1,8 +1,9 @@
 import OpenAI from 'openai';
 import fs from 'fs';
+require('dotenv').config();
 
 const openai = new OpenAI({
-  apiKey: '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', // defaults to process.env["OPENAI_API_KEY"]
+  apiKey: process.env["OPENAI_API_KEY"]
 });
 
 async function main() {
