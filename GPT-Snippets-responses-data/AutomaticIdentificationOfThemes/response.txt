@@ -1,0 +1,36 @@
+1. Facilidad de uso: Muchos encuestados mencionaron que UNCode es fácil de usar y accesible, lo que facilita el aprendizaje de la programación. La plataforma es intuitiva y permite a los usuarios probar y verificar su código de manera eficiente.
+
+2. Herramientas de depuración: UNCode ofrece herramientas útiles para la depuración de código, como la verificación de línea por línea y la visualización del flujo de código. Estas herramientas ayudan a los usuarios a identificar y corregir errores en su código.
+
+3. Práctica y aplicación de conocimientos: UNCode permite a los usuarios poner en práctica los conocimientos adquiridos en la programación. Los usuarios pueden realizar ejercicios y talleres, lo que les permite aplicar y reforzar los conceptos aprendidos.
+
+4. Retroalimentación inmediata: UNCode proporciona retroalimentación inmediata sobre el código del usuario, lo que permite a los usuarios corregir errores y mejorar su código de manera eficiente.
+
+5. Problemas técnicos: Algunos encuestados mencionaron problemas técnicos con UNCode, como caídas frecuentes de la plataforma y errores en la evaluación del código. Estos problemas pueden dificultar el aprendizaje de la programación.
+
+6. Rigidez en la evaluación: Algunos usuarios mencionaron que UNCode es muy estricto en la evaluación del código, lo que puede ser un desafío para los usuarios que están aprendiendo a programar. Sin embargo, esta rigidez también puede ayudar a los usuarios a escribir código más preciso y eficiente.
+
+
+
+
+//old answer
+
+1. Facilidad de uso: Muchos encuestados mencionaron que UNCode es fácil de usar y accesible, lo que facilita el aprendizaje de la programación.
+
+2. Herramientas de depuración: UNCode proporciona herramientas útiles para depurar y verificar el código, como la verificación de línea por línea y la visualización del código.
+
+3. Práctica y aplicación de conocimientos: UNCode permite a los usuarios poner en práctica los conocimientos adquiridos en la materia y resolver problemas de programación.
+
+4. Retroalimentación inmediata: UNCode proporciona retroalimentación inmediata sobre los errores en el código, lo que ayuda a los usuarios a corregir y mejorar su código.
+
+5. Ejercicios y talleres: UNCode ofrece una variedad de ejercicios y talleres que ayudan a los usuarios a desarrollar sus habilidades de resolución de problemas y programación.
+
+6. Problemas técnicos: Algunos encuestados mencionaron problemas técnicos con UNCode, como caídas frecuentes de la plataforma y errores en la evaluación del código.
+
+7. Rigidez en la evaluación: Algunos usuarios mencionaron que UNCode es muy estricto en la evaluación del código, lo que puede ser un desafío para los principiantes.
+
+8. Limitaciones de la plataforma: Algunos encuestados mencionaron que UNCode tiene limitaciones, como la falta de algunas opciones en el editor y la incapacidad para usar algunos módulos.
+
+9. Mejora de la eficiencia: UNCode ayuda a los usuarios a mejorar la eficiencia de su código al proporcionar retroalimentación sobre el tiempo de ejecución y la memoria utilizada.
+
+10. Trabajo en línea: UNCode permite a los usuarios trabajar en línea, lo que es beneficioso para aquellos que no tienen un PC de última generación.
