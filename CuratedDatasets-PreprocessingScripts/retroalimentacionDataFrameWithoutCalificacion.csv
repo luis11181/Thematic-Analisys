@@ -1,0 +1,258 @@
+comment;CmejorableRetroalimentacionCfallasFuncionamiento;CmejorableRetroalimentacionCorientacionInsuficiente;condicionesIniciales;CresolucionProblemasCcomparacionConSalidasEsperadas;CresolucionProblemasCcorregirErrores;CresolucionProblemasCespecificacionesRetroalimentacion;mejorableRetroalimentacion;resolucionProblemas;senalarErrores
+A partir de los errores obtenidos y las difierencias en las respuestas era posible inferir cuales eran los errores que se presentaban en el codigo y buscar la forma de arreglarlos.;0;0;0;0;1;0;0;1;1
+A pesar de que en algunas ocaciones no era clara la causa del error, en gran mayoria de los casos, esta si servia para revisar el codigo;0;0;0;0;0;1;0;1;0
+A pesar de que no siempre se conocian los errores proporcionaba una idea de en que parte de la solucion del problema estaba fallando, ademas de tambien ver las fallas en el sistema interactiva que tiene para visualizar la ejecucion del codigo.;0;0;0;0;0;1;0;1;0
+A veces era confuso, pero si se conocian los errores y lo que podia causarlos era de gran utilidad;0;1;0;0;1;0;1;1;1
+A veces era muy vaga la explicacion del error, simplemente no era especifico.;0;1;0;0;0;0;1;0;0
+A veces es poco funcional;0;1;0;0;0;0;1;0;0
+A veces los casos presentaban entradas demasiado largas y era casi imposible detectar el error, por ende era dificil saber que estaba mal.;0;1;0;0;0;0;1;0;0
+Ademas de los mensajes de errores segun la linea, el limite de 999 pasos en el tutor ayuda a optimizar codigo;0;0;0;0;0;1;0;1;1
+Al dar las respuestas que deberian salir me daba una idea sobre el error del codigo;0;0;0;1;0;0;0;1;0
+Al obtener un fallo en el codigo se podia verificar las respuestas esperadas y las obtenidas para asi tener una comparacion;0;0;0;1;0;0;0;1;0
+Al obtener una salida erronea, el programa me mostraba lo esperado y lo obtenido, lo cual era muy util para corregir el programa. Tambien si salia TIME_LIMIT_EXCEEDED, sabia que debia modificar mi codigo para que no durara tanto.;0;0;0;1;1;1;0;1;0
+Al poder comparar los resultados esperados con los resultados obtenidos, se puede hacer un contraste que deja en evidencia las falencias en los programas codificados por cada estudiante, y en caso de que aun existan dudas en cuanto a los errores cometidos, la herramienta  Python tutor  permite a todos los estudiantes ver el paso a paso de cada codigo programado;0;0;0;1;0;1;0;1;0
+Al saber los casos especificos en donde fallaba el codigo era de mucha ayuda ya que permitia corregir el error mas rapido y facil.;0;0;0;0;1;0;0;1;1
+Al ver en donde estaba el error era mas facil encontrar la solucion;0;0;0;0;1;0;0;1;1
+Algunas veces la retroalimentacion de UNCode no es muy especifica en cuanto a tiempos de ejecucion.;0;1;0;0;0;0;1;0;0
+Algunas veces mostraban bien el error;0;0;0;0;0;0;0;0;1
+Aunque UNcode muestra los errores que presento el programa, son demasiado generales. Estan clasificados en categorias, por lo que varias veces tuve que recurrir a otras herramientas para comprobar cual fue era el error (nombre del error).;0;1;0;0;0;0;1;0;0
+Ayuda a encontrar en que esta fallando el problema del programa, es buena herramienta la comparacion de la salida esperada y la salida que esta dando el programa que uno ingreso.;0;0;0;1;0;0;0;1;1
+Como dije antes, habia errores que no era capaz de identificar, en parte porque no entendia el mensaje que la plataforma sacaba. Esto me confundia y entonces podia llegar a cometer errores donde no habian por este malentendido. Ya que no siempre era capaz de identificar los errores, tampoco podia saber como corregirlos.;0;1;0;0;0;0;1;0;0
+Como he dicho anteriormente, las herramientas que nos ofrece UNCode son una base esencial para nosotros los que aprendemos a programar, pues sin la ayuda de estas herramientas se nos dificultaria mucho mas resolver los problemas.;0;0;0;0;0;0;0;1;0
+Como mencione antes, permite tener pistas o indicios de donde esta el fallo. A veces podia ser un espacio extra al final de una impresion, un error sintactico y la herramienta nos permitia descubrirlos mas facilmente.;0;0;0;0;0;1;0;1;1
+Con los casos de prueba es dificil porque no sabes que tienes mal, y no te muestra;0;1;0;0;0;0;1;0;0
+Con los ejemplos podia darme cuenta de lo que estaba fallando en mi codigo;0;0;0;0;0;1;0;1;0
+Con un poco de tiempo se lograba entender facilmente el error que remarcaba la plataforma aunque unicamente fuera la linea y una breve descripcion, pero he de decir que esto tambien ayudaba a aprender a localizar los errores por uno mismo;0;1;0;0;0;0;1;0;1
+Conociendo los casos donde el codigo no funciona a era sencillo cambiarlo;0;0;0;0;1;0;0;1;0
+Considero que esta es la mayor virtud de UNCode. Pero no estaria de mas que UNCode diera una mejor explicacion de los errores o sugerencias de como corregirlos, mientras el aprendiz se familiariza con ellos. La herramienta de verificacion de buenas practicas es un poco inutil, ya que, aunque hace recomendaciones, no explica por que esto es lo recomendable.;0;1;0;0;0;0;1;0;0
+Cuando funcionaba, era facil de entender que partes debia corregir;0;0;0;0;1;0;0;1;0
+Da una ayuda rapida y precisa;0;0;0;0;0;1;0;1;0
+Da una idea de que tan lejos o que tan cerca se esta de la solucion correcta, lo que hace que el estudiante se encuentre en la tarea de comprobar sus respuestas erroneas y corregirlas para entender el problema en su totalidad;0;0;0;0;0;1;0;1;0
+Daba a entender el error aunque a veces la pagina era muy estricta y daba errores innecesarios.;0;1;0;0;0;1;1;1;0
+Daba informacion la mayoria de veces clara y concisa la cual era perfectamente entendible para usuarios nuevos (aunque muy pocas veces fallaba la verdad);0;0;0;0;0;1;0;1;0
+Daba la explicacion de los errores, aunque en muy pocos casos, en mi opinion no eran muy claros.;0;1;0;0;0;0;1;0;0
+De acuerdo porque solo mostraba mi error, mas no la linea exacta o algo asi.;0;1;0;0;0;0;1;0;1
+Decia especificamente cual era el error y donde estaba;0;0;0;0;0;1;0;1;1
+El error no siempre era muy especifico;0;1;0;0;0;0;1;0;0
+El programa  especifica donde se encuentran los errores;0;0;0;0;0;0;0;0;1
+El python tutor le hacia a uno la prueba de escritorio ahorrando tiempo en la deteccion del problema que se podia utilizar para solucionarlo.;0;0;0;0;1;1;0;1;1
+En algunas ocasiones los errores obtenidos no eran retroalimentados correctamente. Es decir, el mensaje de error del compilador era ininteligible;0;1;0;0;0;0;1;0;0
+En algunas ocasiones no queda muy claro en donde esta el error;0;1;0;0;0;0;1;0;0
+En algunos casos es dificil saber donde estan los errores;0;1;0;0;0;0;1;0;0
+En algunos ejercicios no se sabe por que no completa el requerimiento del ejercicio y pueden ser detalles muy sencillos;0;1;0;0;0;0;1;0;0
+En casos si fue util, pero en otros cuando no se entendia muy bien el ejercicio, tener las salidas no era muy util;0;0;1;0;0;0;0;0;0
+En la mayoria de casos mostraba exactamente donde estaba el error;0;0;0;0;0;0;0;0;1
+En la mayoria de casos podia conocer mi error, aunque algunas veces no lo permitio;1;0;0;0;0;0;1;0;1
+En lo que respecta a la revision del codigo, el sistema de correcion de errores es muy util para identificar faltas en la sintaxis que son recurrentes al empezar a programar;0;0;0;0;0;1;0;1;1
+En los casos que daban time limit, me sucedio varias veces que crei que lo que demoraba estaba en cierta parte y pasaba mucho tiempo intentando corregirlo, tiempo despues me daba cuenta que estaba en otro lado el problema;0;1;0;0;0;0;1;0;0
+En mi opinion, creo que la plataforma en si es suficiente porque nosotros somos los que debemos analizar de una mejor manera el algoritmo para que cumpla funcionalmente. Sin embargo en algunos ejercicios podemos ver los errores en los casos de prueba y esto es muy util para reevaluar la logica que tenemos al escribir el codigo. Por otra parte la herramienta para escribir de una mejor manera el codigo me parece excelente.;0;1;0;0;0;1;1;1;1
+En muchos casos era realmente util, sin embargo puede ser un poco mas especifica identificando el error de escritura en una cadena de texto o ser mas especifico en el error para no buscar sin sentido;0;1;0;0;0;0;1;0;0
+En muy pocas ocasiones UNcode presentaba los posibles errores, mientras en la gran mayoria los errores por falta de un espacio o algo por el estilo debia descubrirlo por mi cuenta.;0;1;0;0;0;0;1;0;0
+En ocasiones aparecia un error e indicaba en donde se encuentra ese error, o algunas salidas faltaban, y con la herramienta de visualizar codigo se entendia el funcionamiento general del codigo y se le podia realizar un seguimiento;0;0;0;0;0;1;0;1;1
+En ocasiones no se veian errores evidentes;0;1;0;0;0;0;1;0;0
+En si UNCode no daba las retroalimentaciones. Uno mismo debia pensar en los posibles errores.;0;1;0;0;0;0;1;0;0
+Entrega un porcentaje de error y las entradas que fallaron asi que se puede corregir;0;0;0;0;1;0;0;1;1
+Era dificil de entender donde estaba el error y no daba descripcion detallada;0;1;0;0;0;0;1;0;0
+Era muy dificil tratar de comprender bien lo que se pedia;0;0;1;0;0;0;0;0;0
+Era muy util que me mostrara en que casos mi programa no funcionaba, sin embargo muchas veces el error no era claro, como por ejemplo, en los casos de imprimir tablas, muchas veces mi programa imprimia espacios adicionales y era dificil encontrar el error.;0;1;0;0;0;0;1;0;1
+Eran bastante claras las instrucciones.;0;0;1;0;0;0;0;0;0
+Es complicado entender la razon por la cual un codigo esta mal, no es muy clara la retroalimentacion del programa referente a los codigos.;0;1;0;0;0;0;1;0;0
+Es de gran ayuda poder reconocer los errores que presenta mi codigo al comparar las salidas esperadas y las que produce mi codigo.;0;0;0;1;0;0;0;1;1
+Es dificil saber que es lo que esta mal exactamente, encontrar el posible error puede tomar tiempo, ademas cuando se realizan los tests solo muestra que es lo que dos o tres de estos realmente hacen, por lo que uno no puede saber en que fallo el codigo.;0;1;0;0;0;0;1;0;0
+Es intuitiva, didactica y muy sencilla de comprender y usar;0;0;0;0;0;0;0;1;0
+Es la primera pista que como usuario obtenemos, para poder resolver correctamente el ejercicio;0;1;0;0;0;0;1;1;0
+Es muy intuitiva entonces era facil saber las cosas que hacian falta  que habia que agregar.;0;0;0;0;1;0;0;1;0
+Es una herramienta sublime, y siempre atinaba, lastima que en runtime error no indicara muy claramente en que ciclo se quedaba infinitamente.;0;1;0;0;0;0;1;0;0
+Es util aunque en muchos casos dificil de entender;0;1;0;0;0;0;1;0;0
+Es util para indagar cuales son los errores y de ahi como solucionarnos;0;0;0;0;1;0;0;1;1
+Es verdad, que el codigo tiene que ser completamente exacto y eso lleva a fallos no tan graves como una mayuscula o una coma, pero aun asi justificaba de manera adecuada y hasta con ilustraciones los fallos para poder corregirlos;0;1;0;0;0;1;1;1;0
+Esta funcion de UNcode permitia ver la linea exacta en que el codigo no funciona tal como se espera, y uno puede rectificar el error, y volver a probar;0;0;0;0;1;0;0;1;1
+Estoy algo en desacuerdo ya que a pesar de que en algunas ocasiones mostraba cual linea fallaba, la plataforma no muestra cual podria ser la estructura correcta para que funcione;0;1;0;0;0;0;1;0;1
+Evidenciaba problemas en diferentes impresiones lo que permitia obtener respuestas funcionales e identificacion inmediata;0;0;0;0;0;1;0;1;0
+Explica lo que esta mal aunque no entra en detalles.;0;1;0;0;0;0;1;0;0
+Explicaba bien como utilizar las diferentes herramientas de UNCode y diferentes tips sobre el uso de la misma.;0;0;1;0;0;0;0;0;0
+Explicaba exactamente cual era el error en el codigo ademas de permitir ver el momento exacto del error;0;0;0;0;0;1;0;1;1
+Fue muy util, porque mostraba la parte que teniamos mala y esto nos daba una idea de que debiamos corregir.;0;0;0;0;1;0;0;1;1
+Generalmente uno no contempla a primeras los casos limite, Uncode en ese aspecto fue de gran ayuda.;0;0;0;0;0;1;0;1;0
+Gracias a que se pueden revisar las pruebas que esta plataforma realiza;0;0;0;0;0;1;0;1;0
+Gracias al  Test mode  visualizar la accion paso por paso del codigo fue una muy util herramienta para fijarme en como funciona la logica del algoritmo. Ademas de subrayar y anotar errores de sintaxis.;0;0;0;0;0;1;0;1;0
+Hacia pensar en los casos no tomados en cuenta en el programa.;0;0;0;0;0;0;0;1;0
+Hay errores que no dan retroalimentacion, por ejemplo,uno que afirman un error al final pero no indican ni linea ni tipo;0;1;0;0;0;0;1;0;0
+Hay situaciones en las que no se entiende el error;0;1;0;0;0;0;1;0;0
+Identifica los errores de forma asertiva.;0;0;0;0;0;1;0;1;0
+Imprimir los datos que imprimia mi codigo versus los que eran los esperados, ayudaba pero a veces era confuso saber que estaba mal.;0;1;0;1;0;0;1;1;0
+Incluso si el input es muy largo y no se puede visualizar en la pantalla, es posible descargarlo y probarlo.;0;0;0;1;0;0;0;1;0
+La comparacion del resultado esperado y el brindad era de mucha utilidad;0;0;0;1;0;0;0;1;0
+La diferenciacion de respuestas permite detectar errores propios y corregirlos apropiadamente;0;0;0;0;1;0;0;1;1
+La forma que tiene UNcode de comparar las respuestas cuando hay algo mal, sirve para caer en cuenta del error y rectificar el codigo, sin embargo, cuando el numero de respuestas es muy alto, UNcode (a veces) no muestra la comparacion, por lo que es un poco mas dificil de conocer el error.;1;0;0;1;1;0;1;1;1
+La herramienta que tiene para corregir errores es util, pero podria ser mas optima oeficiente.;0;0;0;0;1;0;0;1;0
+La interfaz podria ser un poco mas clara y grafica;0;0;0;0;0;0;1;0;0
+La mayoria de veces es dificil identificar el error;0;1;0;0;0;0;1;0;0
+La mayoria de veces este cumplia su funcion, pero en algunos casos la misma plataforma se contradecia entre el 'tester' y los casos de ejemplo o incluso el resultado era distinto al ejecutar el codigo en un sitio distinto a uncode;0;1;0;0;0;0;1;0;0
+La mayoria de veces, mostraba el tipo de error que se estaba cometiendo y facilitaba la tarea al momento de realizar las lineas de codigo escritas;0;0;0;0;1;0;0;1;1
+La mayoria de veces, ya que hay test que no deja ver, y a veces son los unicos que arrojan el error.;1;1;0;0;0;0;1;0;0
+La opcion de revisar cuando no funciona el codigo ayuda a encontrar los fallos mas facilmente y la de revisar como funciona el codigo paso a paso ayuda a entender un monton de cosas;0;0;0;0;0;1;0;1;0
+La opcion de ver el paso a paso y ver los ejemplos;0;0;0;0;0;1;0;1;0
+La parte del debuging se hace muy compleja en Uncode ya que los errores aunque son especificos. Muchas veces no da informacion importante para corregir;0;1;0;0;0;0;1;0;0
+La plataforma daba los errores que tenia el codigo puesto;0;0;0;0;0;0;0;0;1
+La plataforma muestra el output que deberia salir, pero no muestra cual es el posible error;0;1;0;1;0;0;1;1;0
+La plataforma ofrecia la comparacion entre la respuesta correcta y la respuesta que daba el programa escrito, sin embargo, esto en algunas ocasiones no era util para determinar cual fue el error del programa.;0;1;0;1;0;0;1;1;0
+La presencia del tutor, donde se puede ver la ejecucion paso a paso de los programas, permitiendonos analizarlos y comprender mejor como funcionan y que esta mal.;0;0;0;0;0;1;0;1;0
+La realimentacion automatica algunas veces no mostraba  los errores. Ademas, en algunos casos era un poco tediosa, puesto que mostraba todo en vertical y era dificil encontrar en que estaba fallando. Sin embargo fue una herramienta muy util que permitia usar el tiempo en mejorar el codigo en vez de usarlo en buscar errores;1;1;0;0;1;1;1;1;1
+La respuesta es precisa y ayuda a saber en donde tener que revisar el error;0;0;0;0;1;0;0;1;1
+La retroalimentacion automatica cuando permite ver que casos tienen errores funciona perfecto para entender mejor las limitaciones del programa, incluso cuando no se muestran estos casos es posible entender si el programa no funciona, si funciona a medias o si existen casos que no considere pero que estarian generando errores.;0;0;0;0;0;1;0;1;0
+La retroalimentacion automatica ofrecida es basica y muchas veces no permite identificar facilmente el error que uno esta cometiendo;0;1;0;0;0;0;1;0;0
+La verdad me ayudo a corregir muchos errores de sintaxis;0;0;0;0;1;0;0;1;0
+Las comparaciones que hace UNcode me facilita encontrar el problema y corregirlo;0;0;0;1;0;0;0;1;0
+Las herramientas de Test code y Visualize your code son muy utiles frente a revisar nuestros codigos permitiendo ver un paso a paso del codigo.;0;0;0;0;0;1;0;1;0
+Los casos de calificacion siempre son utiles, y la comparacion de respuestas tambien, pero a veces se presentan casos muy largos que a veces puede significar llevar a hacer mucha prueba y error para el estudiante;0;0;1;1;0;0;0;1;0
+Los errores indicaban la linea y el tipo de error;0;0;0;0;0;1;0;1;1
+Los mensajes que se mostraban cuando salia un error en el codigo eran facil de buscar en Internet y habian cientos de respuestas explicando el error;0;0;0;0;0;1;0;1;0
+Los nombres de los errores son demasiado genericos. lo que hace que en ocasiones sea dificil saber por que se produce el error.;0;1;0;0;0;0;1;0;0
+Me ayudo a analizar correctamente el punto exacto donde se me producian errores en mi codigo;0;0;0;0;0;0;0;0;1
+Me ayudo mas de una vez a saber por donde iba y que debia cambiar, aunque no siempre;0;0;0;0;1;0;0;1;0
+Me daba el/los caso(s) concretos para saber que le faltaba a mi codigo para que funcionara correctamente, no era cosa de adivinar si no tratar el problema especifico;0;0;0;0;1;0;0;1;1
+Me decia exactamente donde tenia los fallos y cual era;0;0;0;0;0;0;0;0;1
+Me indica en donde me he equivocado y me parece muy util;0;0;0;0;0;0;0;0;1
+Me parecio muy bueno el que la plataforma compare las salidas, ya que nos permite corregir errores de una manera agil.;0;0;0;1;1;0;0;1;0
+Me permitia saber que tipo de error estaba cometiendo, y en base a eso buscar una mejor solucion.;0;0;0;0;1;1;0;1;0
+Mostraba de manera clara las falencias del codigo y permitia, al ver los casos de prueba donde se fallaba y su respuesta , corregirlos de manera oportuna;0;0;0;0;1;0;0;1;1
+Mostraba el error y la linea del mismo;0;0;0;0;0;0;0;0;1
+Mostraba especificamente para que pruebas el codigo arrojaba error.;0;0;0;0;0;0;0;0;1
+Mostraba exactamente el lugar en el cual se encontraba el problema.;0;0;0;0;0;0;0;0;1
+Mostraba los errores claramente y mostraba lo que se esperaba y ademas ofrecia la herramienta de python tutor para mirar paso a paso .;0;0;0;1;0;1;0;1;1
+Mostraba los errores de salida existentes en el codigo ademas de que usa el sistema de python tutor para ver en que punto falla la ejecucion;0;0;0;0;0;0;0;0;1
+Muchas veces los codigos de error son poco claros o directamente aparece un runtime en vez de marcar la linea del error. Siendo que a veces no eran programas con ciclos.;0;1;0;0;0;0;1;0;0
+Muchas veces los errores no se identifican tan facil solo viendo la salida esperada y la salida del programa, hay errores como  Time limit exeeded  o  Runtime error  que no muestran lo que se pudo imprimir antes del error. El problema real llega cuando hay un  Runtime error  y se usan ciclos o recursion, puesto que muestra la linea en donde se encuentra el error, pero no el caso, haciendo mas largo el proceso de correccion;0;1;0;0;0;0;1;0;0
+Muchas veces no era muy claro cual era realmente el error;0;1;0;0;0;0;1;0;0
+Muchas veces no me deja ver un ejemplo de en que estoy fallando lo que dificulta encontrar el error;0;1;0;0;0;0;1;0;0
+Muchas veces no pasaba eso, ya que lanzaba el error pero uno de pronto no sabia como hacerlo mas eficiente.;0;1;0;0;0;0;1;0;0
+Muchas veces no se retroalimentan los errores en los codigos, y en algunos casos solo por espacios da todo el punto incorrecto;0;1;0;0;0;0;1;0;0
+Muchos de los algoritmos que disene se pudieron realizar gracias a la realimentacion de UNcode;0;0;0;0;0;0;0;1;0
+Muestra especificamente los errores tanto como los ejercicios aceptados;0;0;0;0;0;1;0;1;1
+No entrega una descripcion clara del problema, es mas util corregir los errores por Colab;0;1;0;0;0;0;1;0;0
+No es muy entendible para alguien que apenas esta aprendiendo a porgramar por primera vez;0;1;0;0;0;0;1;0;0
+No especifica directamente el error, haciendo dificil saber concretamente la parte que esta mal a menos que sea un error realmente notable (si el error es, por ejemplo, un espacio de mas al final de una linea, puede ser muy dificil de encontrar);0;1;0;0;0;0;1;0;0
+No me sirvio como guia ya que  era enredado para mi, ver las sugerencias;0;1;0;0;0;0;1;0;0
+No muy clara en ciertas ocasiones, muy ambigua.;0;1;0;0;0;0;1;0;0
+No todas las actividades tenian retroalimentacion;0;1;0;0;0;0;1;0;0
+Nos ayudaba mediante los ejemplos de correccion a ver la parte que teniamos mal en el codigo;0;0;0;0;0;0;0;0;1
+Nos muestra en porcentaje de casos aprobados y en muchos casos nos permite ver los casos de prueba para identificar en que estamos fallando.;0;0;0;0;0;1;0;1;0
+Nos proporcionaba las salidas correctas y las que no correspondian o estaban mal;0;0;0;0;0;0;0;0;1
+Nunca me sirvio ninguna de las recomendaciones que me otorgaba la plataforma, sobre todo en casos en los que el codigo corria a la perfeccion en otras plataformas y en UNCode fallaba;0;1;0;0;0;0;1;0;0
+Ofrece buenas alternativas para poder observar la ejecucion de codigo paso a paso, asi como los casos de prueba en donde fallo el codigo lo cual facilita la busqueda del error;0;0;0;0;0;1;0;1;0
+Para algunos problemas UNCode no entregaba el expected output vs el output generado por nosotros los estudiantes, en esos caso no era facil saber en donde fallaba el codigo;1;0;0;1;0;0;1;1;1
+Permite conocer los aspecto a modificar de buena forma;0;0;0;0;1;0;0;1;0
+Permite corregir las areas del codigo con errores, siguiendo el proceso de las variables;0;0;0;0;1;0;0;1;0
+Permite ver con exactitud donde estan los errores y los hace mas faciles de corregir;0;0;0;0;1;0;0;1;1
+Permitia identificar la seccion especifica del programa para corregir;0;0;0;0;0;0;0;0;1
+Pienso que tal vez deberia ser un poco mas explicito y especifico a la hora de encontrar un error, de igual forma adjuntar un par mas de ejemplos, no obstante, asi como esta se entiende perfectamente el tipo de error y una vaga idea de como resolverlo.;0;1;0;0;0;0;1;0;0
+Poder ver errores en los programas enviados facilita la identificacion de problemas y la solucion de las mismas;0;0;0;0;1;0;0;1;1
+Poder visualizar el momento en que el codigo fallo permite editar los codigos con mayor facilidad y seguridad. Siendo un principiante en el tema de la programacion esto fue de gran ayuda.;0;0;0;0;1;1;0;1;0
+Podia encontrar los errores rapidamente y solucionarlos.;0;0;0;0;1;0;0;1;1
+Por que te compara la salida esperada con la que tu das y eso lo hace mas facil;0;0;0;1;0;0;0;1;0
+Porque UnCode me permitia ver las salidas que debia tener el programa y basandome en estas salidas podia corregir los errores que haya cometido en el programa;0;0;0;1;1;0;0;1;0
+Porque Uncode ofrece herramientas utiles para reconocer los errores;0;0;0;0;0;0;0;0;1
+Porque a partir de las entradas que Uncode da al programa y las respuestas que espera que salgan, permite intuir facilmente los problemas que tiene el codigo;0;0;0;1;0;0;0;1;0
+Porque al esta plataforma permitir mostrar el desarrollo del programa linea por linea,  promueve a que el estudiante analice cada linea de codigo para adaptarla a los resultados que se le exigen;0;0;0;0;0;1;0;1;0
+Porque de esta forma podia ver las fallas que experimentaba mi programa en ciertos casos, permitiendo que buscara nuevas opciones para este y asi llegar a soluciones mas optimas.;0;0;0;0;1;0;0;1;1
+Porque el poder ver el paso a paso y ver como cambian las variables, ayuda a ver en que parte el codigo no hace lo que uno espera;0;0;0;0;0;1;0;1;0
+Porque especificaba la respuesta correcta y las similitudes con la respuesta que nuestro codigo daba.;0;0;0;1;0;0;0;1;0
+Porque informaba que tipo de error habia en el codigo y en que linea, ademas, informaba sobre errores logicos como bucles infinitos;0;0;0;0;0;1;0;1;1
+Porque la pagina estaba habilitada para mostrar donde estaba mal, facilitando la revision y posterior correccion. Por otra parte decir que solo esta mal sin la razon, puede que no sea de mucha utilidad en el aprendizaje.;0;1;0;0;1;0;1;1;1
+Porque me era muy util saber que era lo que estaba exactamente mal en los casos para poder corregir errores.;0;0;0;0;1;0;0;1;1
+Porque me permitia comparar lo que hacia mi programa y lo que se buscaba;0;0;0;1;0;0;0;1;0
+Porque muchas veces no se tenia la certeza total de que estaba mal, al ver lo que se esperaba uno podia realizar una evaluacion y realizar una correcta correccion.;0;0;0;1;1;0;0;1;0
+Porque muestra en donde esta el error para que uno lo pueda corregir;0;0;0;0;1;0;0;1;1
+Porque muestra los errores explicitos.;0;0;0;0;0;0;0;0;1
+Porque no es preciso con los errores, dice donde es, pero no es efectivo con el tipo de error;0;1;0;0;0;0;1;0;0
+Porque permite la visualizacion automatica de los errores en el codigo, y hace que la evaluacion de casos a resolver sea mas facil;0;0;0;0;0;0;0;0;1
+Porque permite ver que resultados de los casos de prueba  no coinciden con la salida del programa, y se puede hacer un seguimiento a esos casos para ver en que momento del proceso la variable empieza a alejarse de la respuesta esperada;0;0;0;1;0;1;0;1;0
+Porque permitia analizar las diferencias entre las respuestas obtenidas y las esperadas, ya fuesen de formato, de redondeo, por ciertas mayusculas o por errores en la ejecucion, los que se podian inferir con mayor facilidad.;0;0;0;1;0;1;0;1;0
+Porque permitia ver que salidas daba el programa frente a ciertas entradas en las cuales habia un error, lo cual, con un poco de intuicion y conocimiento del codigo se podia arreglar para que el mismo quedara sin errores algunos.;0;0;0;1;1;0;0;1;0
+Porque puedo identificar en que casos mi programa falla para asi buscar la manera de corregir las fallas;0;0;0;0;1;0;0;1;1
+Porque se podia observar cuales eran los errores comparado con los casos de prueba y ademas de los errores de logica y de sintaxis;0;0;0;1;0;0;0;1;1
+Porque se tiene la opcion de ver como se desarrolla el codigo y corregir los errores;0;0;0;0;1;0;0;1;1
+Porque si estaba mal nos daba pistas de lo que estaba mal y podiamos arreglar;0;0;0;0;1;1;0;1;0
+Porque te decia aveces los errores no quedaban claro en donde estaban;0;1;0;0;0;0;1;0;1
+Presentaba paso a paso lo que el codigo estaba ejecutando y eso me permitia a mi encontrar mas rapidamente el error en determinada parte del codigo;0;0;0;0;0;1;0;1;1
+Presentar la respuesta correcta y compararla con la erronea hace que nos demos cuenta de que fallo en nuestro programa.;0;0;0;1;0;0;0;1;0
+Pues muestra como es la salida esperada y asi comparar con la nuestra;0;0;0;1;0;0;0;1;0
+Pues se podia ver el paso a paso como funcionaba el codigo en herramientas;0;0;0;0;0;1;0;1;0
+Realmente hay claridad dependiendo de las condiciones puestas por el profesor, aveces no fueron muy claras;0;0;1;0;0;0;0;0;0
+Retroalimentacion muy general, sin ofrecer ayuda;0;1;0;0;0;0;1;0;0
+Retroalimentacion? Los errores los encontraba yo mismo o si no moria;0;1;0;0;0;0;1;0;0
+SABES EN QUE TE EQUIVOCASTE;0;0;0;0;0;0;0;0;1
+Sabia exactamente y en tiempo real donde tenia errores mi codigo sin tener que buscarlo en codigos en ocasiones muy muy largos.;0;0;0;0;0;0;0;0;1
+Sabia que tipo de error era y me daba una idea de como corregirlo;0;0;0;0;1;1;0;1;0
+Se dice cuantos casos de prueba se pasaron y cuantos no y, dependiendo del profesor, se permite la visualizacion de los inputs usados, el output esperado y el que el programa dio.;0;0;0;1;0;0;0;1;0
+Se especificaba el tipo de error que se habia cometido;0;0;0;0;0;1;0;1;0
+Se sabia donde estaba el error;0;0;0;0;0;0;0;0;1
+Seria util poder saber cual es el limite de tiempo para que una funcion se ejecute para tener cuidado con las repeticion. Por lo demas esta bien;0;0;1;0;0;0;0;0;0
+Si ayudaba a darse cuenta de que errores habia pero a veces no era muy claro;0;1;0;0;0;0;1;0;1
+Si ayudo totalmente, excepto en algunos casos que eran muy grandes y no se podian interpretar, la recomendacion que doy es que pueden ensenar a los estudiantes a usar diffchecker para estos casos ya que Nicolas no a menciono pero personalmente no supe como usar esta herramienta;0;1;1;0;0;0;1;0;0
+Si bien mencionaba los errores graves, a veces era de utilidad ver que falta/sobra un parentesis o una palabra esta mal escrita;0;0;0;0;0;1;0;1;1
+Si bien muestra un paso a paso del codigo, y presenta unas herramientas para verificar el sintaxis del codigo, estos a veces tardaban demasiado o no funcionaban;1;0;0;0;0;0;1;0;0
+Si bien permite ver el valor esperado de las respuestas, para casos especificos la informacion no se desglosaba para otros, dando una incertidumbre como resultado. Igualmente no habia guianza ni acompanamiento para la resolucion de los ejercicios mas complejos.;0;1;0;1;0;0;1;1;0
+Si daba los indicios de porque mi codigo no funcionaba;0;0;0;0;0;1;0;1;0
+Si es bastante ya que la misma plataforma tiene un apartado donde explica que significa cada mensaje que arroja al hacer funcionar el programa, sin embargo en mi caso era complicado identificar inmediatamente el problema especifico;0;1;0;0;0;1;1;1;0
+Si fue muy util y tambien ayuda la herramienta the check your code;0;0;0;0;0;0;0;0;1
+Si habia un error en un caso de prueba, UNCode permitia ver la salida esperada y la entrada del codigo en ciertos casos, a veces no permitia ver los casos de prueba y eso dificultaba un poco la depuracion.;1;0;0;1;0;0;1;1;1
+Si los mensajes dados por UNCode acerca de los errores cometidos permitieron que fueran facilmente corregidos;0;0;0;0;1;1;0;1;0
+Si, aunque falta detallar un poco mas el tipo de error que se produce;0;1;0;0;0;0;1;0;0
+Si, con la herramienta Python tutor es facil ver en que parte del codigo esta el error;0;0;0;0;0;1;0;1;0
+Si, debido a que el programa nos muestra la correcta solucion , y con esta uno puede mejorar el programa, sin acomodarlo a las respuestas;0;0;0;1;1;0;0;1;0
+Si, en la mayoria de casos las herramientas que posee me ayudaba a retroalimentar errores.;0;0;0;0;1;1;0;1;0
+Si, indicaba la linea.;0;0;0;0;0;0;0;0;1
+Si, la herramienta fue bastante util para ver como se desarrollaba el programa y en que casos no funcionaba.;0;0;0;0;0;1;0;1;0
+Si, porque al dar el resultado automaticamente garantiza que no se exceda el tiempo limite para la entrega de los ejercicios y poder resolver los errores naturalmente;0;0;0;0;1;0;0;1;0
+Si, ya que al presentar algun error se podia ver especificamente que estaba mal.;0;0;0;0;0;0;0;0;1
+Si, ya que es mas facil guiarse sabiendo exactamente donde estan los errores para proceder a corregirlos;0;0;0;0;1;0;0;1;1
+Si, ya que me indica mas o menos lo que podia tener mal;0;0;0;0;0;0;0;0;1
+Si, ya que mostraba la linea en la que fallaba en codigo;0;0;0;0;0;0;0;0;1
+Siempre es bueno saber en que esta fallando el programa para corregirlo.;0;0;0;0;1;0;0;1;1
+Sirvio para saber en que casos no servia el codigo.;0;0;0;0;0;0;0;0;1
+Solo saber las respuestas no ayudan a identificar errores minimos que no permiten la ejecucion del programa.;0;1;0;0;0;0;1;0;0
+Sus ensayos permiten obtener una respuesta cercana a los errores cometidos;0;0;0;0;0;1;0;1;0
+Tanto la vista de salidas a respectivas entradas era muy util, pues no teniamos necesidad de tener un ide, fue muy util en especal el codlens ya que podiamos ver especificamente la forma en la funcionaba nuestro codigo en cada paso por lo que facilitaba el proceso de depuracion;0;0;0;1;0;1;0;1;0
+Tuvimos algunos problemas que se presentaban unicamente en y no en Google Collab o en otros entornos de programacion.;1;0;0;0;0;0;1;0;0
+UNCode identifica el error pero en muchos casos no se lograba identificar cual era, el programa tampoco dice como se debe solucionar sino solamente en que linea esta el error, lo cual no ayuda a corregir el error;0;1;0;0;0;0;1;0;1
+Ya que cuando algo queda mal, te muestra el error, y con eso te dice cuales pruebas de ensayo te quedaron mal.;0;0;0;0;0;1;0;1;1
+Ya que de esta manera podiamos aprender de nuestros errores y aprender con el fallo para asi corregirlo en un futuro;0;0;0;0;1;0;0;1;0
+Ya que detecta si el codigo esta bien o mal escrito y esto afectaria al resultado;0;0;0;0;0;1;0;1;1
+Ya que podiamos visualizar que errores especificos poseia nuestro codigo, comparando las salidas.;0;0;0;1;0;0;0;1;0
+a veces no da ningun reporte de error o simplemente dice que esta mal pero no especifica en que parte;0;1;0;0;0;0;1;0;0
+a veces no funciona;1;0;0;0;0;0;1;0;0
+a veces no mostraba bien los errores o habian entradas muy largas que tenia una limitacion de visualizaicon;0;1;0;0;0;0;1;0;0
+al ver los casos de prueba que estaban mal, se tenia que pensar en que podia haber quedado mal y asi mejorar y aprender de los errores;0;0;0;0;0;1;0;1;1
+ayuda a mejorar el codigo;0;0;0;0;1;0;0;1;0
+daba pistas utiles para corregir mis errores;0;0;0;0;1;0;0;1;0
+del todo a veces no es muy claro el error, ni siquiera el error esta en la linea de codigo que muestra el corrector;0;1;0;0;0;0;1;0;0
+en la mayoria de casos si nos informaba del error pero en algunos muy especificos no;0;1;0;0;0;0;1;0;1
+en ocasiones los unicos errores eran de formato;0;1;0;0;0;0;1;0;0
+en si daba una guia pero muchas veces uno no tenia ni idea de porque botaba el error;0;1;0;0;0;0;1;0;0
+es de ser requerido descargar y probar de manera autonoma errores, usando metodos para diferenciar nuestro output del requerido, ya que el metodo de mostrarse es un poco precario;1;1;0;0;0;0;1;0;0
+es una forma facil de identificar los errores y encontrar una mas pronta solucion;0;0;0;0;1;0;0;1;1
+la mayoria de veces son claras las correcciones, algunas veces no;0;1;0;0;0;1;1;1;0
+muchas veces ignoraba partes importantes de codigo las cuales en algunos casos daban fallo en algun punto de respuestas;1;1;0;0;0;0;1;0;0
+no da una retroalimentacion precisa de cual fue el fallo y cuales test hace la plataforma para calificar;0;1;0;0;0;0;1;0;0
+no los mostraba en todos;1;0;0;0;0;0;1;0;0
+no se especificaba los posibles errores, solo mostraba los casos de error en la salida;0;1;0;0;0;0;1;0;0
+para errores sintacticos es muy util.;0;0;0;0;1;0;0;1;0
+por que ayudaba a ver errores de logica o sintaxis facilmente;0;0;0;0;0;0;0;0;1
+por que indicaba la linea exacta del error y el problema en si;0;0;0;0;0;0;0;0;1
+porque aunque los demarca, no es especifico con que esta mal;0;1;0;0;0;0;1;0;0
+porque el uncode no siempre  decia que estaba mal;0;1;0;0;0;0;1;0;0
+porque en la mayoria de ocasiones ver en que puntos estaba equivocado me permitio darme una mejor idea de que estaba haciendo mal mi programa.;0;0;0;0;0;0;0;0;1
+porque mostraba lo que salia mal en nuestro codigo y como debia ser una salida esperada permitiendo identificar los errores;0;0;0;1;0;0;0;1;1
+porque permitia inferir donde estaba mal;0;0;0;0;0;1;0;1;0
+porque permitian replantear un codigo , ya fuera por un fallo en un caso o un error de eficiencia.;0;0;0;0;1;0;0;1;0
+porque sabemos cual es nuestro error;0;0;0;0;0;0;0;0;1
+pues  como tal no me comunicaba cual era mi error, pero es util saber en que casos de prueba funciona mal, para uno mismo solucionar.;0;1;0;0;0;0;1;0;0
+pues la realimentacion es muy escasa;0;1;0;0;0;0;1;0;0
+si pero deberian implementar que siempre se vea el tiempo que dura el programa en cada submission.;0;0;0;0;0;0;1;0;0
+si, aunque en algunos casos de prueba que eran muchos datos de entrada se tornaba un poco complicado descubir el error, pero en general estuvo bien.;0;1;0;0;0;0;1;0;0
+solo da los dos outputs mas no aclara lo que debe hacerse o incluso llega a ser ilogico que por un espacio todo quede mal;0;1;0;0;0;0;1;0;0
+ubicada donde estaba el error exacto;0;0;0;0;0;0;0;0;1
+una vez entendido el sistema de retroalimentaion, encontrar los errores es sencillo;0;0;0;0;0;0;0;0;1
+ya que es muy util y concisa, muestra a la perfeccion cual es y donde se encuentra el error;0;0;0;0;0;1;0;1;1
