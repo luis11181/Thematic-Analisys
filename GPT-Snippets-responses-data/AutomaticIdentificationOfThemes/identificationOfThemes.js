@@ -1,13 +1,16 @@
 import OpenAI from 'openai';
 import fs from 'fs';
-require('dotenv').config();
+//require('dotenv').config();
+//import dotenv as import
+import dotenv from 'dotenv';
+dotenv.config();
 
 const openai = new OpenAI({
   apiKey: process.env["OPENAI_API_KEY"]
 });
 
 async function main() {
-  const content = fs.readFileSync('QuestionIdentificationOfThemes.txt', 'utf-8');
+  const content = fs.readFileSync('Question.txt', 'utf-8');
 
   const params = {
     messages: [{ role: 'user', content }],
