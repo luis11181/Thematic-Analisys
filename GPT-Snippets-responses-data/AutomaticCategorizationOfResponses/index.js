@@ -10,7 +10,7 @@ const openai = new OpenAI({
 });
 
 async function main() {
-  const content = fs.readFileSync('QuestionWithManualCategories.txt', 'utf-8');
+  const content = fs.readFileSync('QuestionWithManualCategoriesImprovedDescriptions.txt', 'utf-8');
 
   const params = {
     messages: [{ role: 'user', content }],

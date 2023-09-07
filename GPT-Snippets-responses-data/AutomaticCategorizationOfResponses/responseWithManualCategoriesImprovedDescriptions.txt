@@ -1,0 +1,209 @@
+'Respuesta: "Respecto a otros IDE que toca iniciar de cero para probar el codigo, UNCode facilita esto de modo que no toque escribir las entradas cada vez que corre el codigo y la herramienta de verificacion de linea por linea ayuda mucho cuando se inicia en un lenguaje."
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Por la facilidad en plantear problemas y ejercicios por parte de los profesores"
+Categorías: Bondades de la plataforma
+
+Respuesta: "Ya que la interfaz no me parece muy comoda y el hecho de que el editor no tenga algunas opciones te hace estar mas tiempo corrigiendo la escritura que programando"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Mediante la realizacion de los talleres, el ejercicio de verificar errores y pensar en la solucion  del problema permitio al aprendizaje en busqueda de completar en 100% los talleres propuestos"
+Categorías: Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Fue un buen programa con una buena cantidad de talleres los cuales fueron muy utiles para el desarrollo de solucion de problemas"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "permitio el analisis de codigo y la prueba de este"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Porque permite poner en practica los  conocimientos que se adquieren en la materia"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "Porque me permitia practicar algunas conceptos aprendidos en clase"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "Por las herramientas que brindaba para entender el codigo."
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Es una herramienta facil de usar, sencilla y util a la hora de practicar, interactiva tambien"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Nos da la oportunidad de ver el resultado que se quiere y el que se tiene"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Mediante UNCode, pude realizar muchos ejercicios que me permitieron profundizar y poner a prueba mis conocimientos de los lenguajes que estaba aprendiendo. Por las herramientas con las que disponia, era capaz de ver mis errores para poder corregirlos adecuadamente en el futuro. Sin embargo, la plataforma no siempre me decia el tipo de error que habia cometido, se  caia  con frecuencia y habia situaciones donde no era acorde a otras plataformas que tenian el mismo objetivo que UNCode, por lo que podia confundirme aun mas de lo que me ayudaria."
+Categorías: Bondades de la plataforma, Mejorable para aprender a programar, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Nos permitia ejemplos para corregir nuestro codigo y tenia herramientas para evaluar el codigo linea a linea"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Facilita el uso de una interfaz de manera rapida y accesible"
+Categorías: Bondades de la plataforma
+
+Respuesta: "ya que proporcionaba todas las herramientas necesarias para practicar y mejorar las habilidades basicas (y esenciales) de programacion tanto en c++ como en python 3"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Porque nos permitio realizar los ejercicios de talleres, y fue de gran utilidad para verificar que lo que presentamos estaba bien."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Como plataforma virtual ayuda mucho si no tienes un editor de codigo en el PC"
+Categorías: Bondades de la plataforma
+
+Respuesta: "porque la plataforma nos dio una manera practica de aprenderlo"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "Es una muy buena herramienta sin embargo en ocasiones se cae y se pierden algunos trabajos"
+Categorías: Bondades de la plataforma, Mejorable para aprender a programar
+
+Respuesta: "Las herramientas de test y visualize son muy utiles a la hora de encontrar errores"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "El planteamiento de los ejercicios es claro y el debugger es una herramienta muy util para encontrar errores"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "El compilador de vez en cuando presenta fallos en su estructura los cuales hay que solventar de maneras poco convencionales"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Excelente  debido a que se trabaja online. Y creo que esto es fundamental debido a  que la comunidad universitaria la gran mayoria no cuenta con PC de ultima generacion"
+Categorías: Bondades de la plataforma
+
+Respuesta: "La plataforma nos facilita programar en el lenguaje que estemos poniendo en practica y nos pone a prueba con diferentes ejercicios"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "A veces es poco practico y da errores por cosas que no deberia"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Es una plataforma que corre bastante bien los programas vistos en clase, muy rara vez existen errores por parte de la plataforma, tambien a veces se congela la pagina sin razon alguna. Pero si hablamos del resto es una plataforma excelente. Resalto la herramienta que nos permite ver que sucede con el codigo linea por linea."
+Categorías: Bondades de la plataforma, Mejorable para aprender a programar, Herramientas de UNCode
+
+Respuesta: "Los talleres dejados por el profesor, refuerzan lo que el ensena."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "Porque considero que los ejercicios son muy practicos y permiten emplear todas las herramientas aprendidas durante las clases"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "ES UNA MANERA MUY ACERTADA DE DESARROLLAR TALLERES"
+Categorías: Bondades de la plataforma
+
+Respuesta: "Porque permite visualizar el funcionamiento del codigo."
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Permite realizar ejercicios de forma practica y sencilla"
+Categorías: Bondades de la plataforma
+
+Respuesta: "Fue util, para verificar nuestros fallos y seguir el codigo paso a paso"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Nos permitio realizar talleres/quices conociendo nuestros resultados de forma inmediata, permitiendo retroalimentarnos eficazmente."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Porque la plataforma le dice a uno lo que sale mal y asi es mas facil revisar donde pudo cometerse el error."
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Porque permite desarrollar ejercicios de forma clara con un sistema accesible y entenible."
+Categorías: Bondades de la plataforma
+
+Respuesta: "Debido a que es una buena herramienta para practicar y realizar ejercicios , ademas de poseer varias funciones utiles como son los casos de prueba o el tutor de python"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Podiamos llevar nuestros avances, testear nuestros codigos, mejor organizacion para las actividades"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "UNCode fue realmente util ya que cuenta con una interfaz intuitiva que permite disenar mi codigo, hacerle prueba y verificacion de manera muy sencilla, asi como poder usar Python Tutor para hallar errores dentro de mi codigo con mayor facilidad."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Porque permite probar el codigo, hacer el seguimiento de su ejecucion y aconseja sobre buenas practicas de programacion o errores que detecta antes de la ejecucion del mismo, esto ultimo ahorra tiempo y permite entender mejor el programa que los textos de error propios de Python."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Fue muy util la proposicion de problemas reales aunque sencillos, con los criterios necesarios para un desarrollo automatizado."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "solo lo use para enviar los talleres ya que los desarrollaba en otro IDE"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Si bien la aplicacion cumple con su proposito, presenta varias fallas (Como las varias caidas de la pagina, o la lentitud en ciertas ocasiones) no permiten que el usuario tenga una experiencia amistosa con UNCode"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "es una plataforma muy intuitiva y con buenas herramientas para la solucion de problemas y ejecucion de los codigos"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Porque ayudan a aplicar lo aprendido en un codigo con varios casos de pruebas, y el visualizador ayuda a escoger los errores puntales"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Es una buena idea pero no cumple completamente con su funcion ya que solo permite verificar si un programa cumple con algunos casos de prueba y no si este tiene logica o no."
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Porque en ocasiones marcaba 100% funcional algunos programas y cuando los usaba para otra actividad estos no se desempenaban de la manera correcta"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Permite practicar e interiorizar los conocimientos que se aprende en clase y los documentos Notebook."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "la plataforma esta bien aunque falla a menudo"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "Muy versatil para programar en este, ademas, la metodologia de casos de prueba le da un plus extra que ayuda a la compresion de ejercicios"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "es una herramienta muy buena para comprobara que un programa hace lo que se le pide"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Visualizador de codigo"
+Categorías: Herramientas de UNCode
+
+Respuesta: "porque puedo ver el funcionamiento del codigo paso a paso"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Es una herramienta muy util para practicar los distintos lenguajes de programacion dado las pautas y retroalimentacion que el sistema provee"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Porque asegura que estamos tomando todos los errores posibles que puede generar el codigo que estamos creando"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "En general me parece una herramienta que es util para evaluar ejercicios de programacion, al momento de aprendar no hace mucha diferencia"
+Categorías: Bondades de la plataforma, Mejorable para aprender a programar
+
+Respuesta: "Es eficiente a la hora de revisar los programas"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Me parecia que tenia herramientas utiles, como (en mi caso con el lenguaje python) ver como funcionaba paso a paso el programa, y saber si funcionaba para los tests propuestos"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Mostraba cuando se equivocaba, aunque en ocasiones era algo complicado encontrar el error, le exigia al estudiante pero no era exagerado"
+Categorías: Bondades de la plataforma, Mejorable para aprender a programar, Herramientas de UNCode
+
+Respuesta: "Porque se puede mirar paso a paso que hace o no hace un programa"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Es complejo programar,se me dificulta mucho"
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "No lo usamos muchas veces, y al usarlo, nos obligaba a mejorar el programa"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "La interfaz no es muy amable con el usuario inicial, la escritura es mucho mas estricta."
+Categorías: Mejorable para aprender a programar
+
+Respuesta: "es una buena plataforma"
+Categorías: Bondades de la plataforma
+
+Respuesta: "Fue util porque me enseno estrictamente a manejar condiciones establecidas para la ejecucion de un codigo"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales
+
+Respuesta: "Nos permite saber en que nos equivocamos y ademas de eso nos deja visualizar la prueba de escritorio para poder revisar si nos equivocamos en algun punto."
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Porque presenta herramientas utiles que permiten el testeo de los programas y analizar como estos se comportan (python tutor)"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "Es una herramienta que se adapta a las necesidades de los estudiantes. Nos permite dar un seguimiento a nuestro codigo de una manera mas sencilla con python tutor y los consejos de estilo de programacion son bastante utiles."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Porque se pueden ver claramente algunos outputs esperados, es facil usar multiples inputs y tiene conexion con python tutor (lo que permite entender mejor el codigo). Ademas, uncode ofrece una retroalimentacion inmediata."
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode
+
+Respuesta: "Por ser capaz de mostrar la coincidencia entre la salida y las respuestas esperadas, y permitir visualizar como cambian las variables a medida que se ejecuta el codigo"
+Categorías: Bondades de la plataforma, Herramientas de UNCode
+
+Respuesta: "dio la oportunidad de poner en practica los conocimientos adquiridos en las clases a pesar de la virtualidad. Tambien fue muy util para identificar problemas y plantear diferentes soluciones segun fuesen requeridas"
+Categorías: Bondades de la plataforma, Logros pedagógicos generales, Herramientas de UNCode'
