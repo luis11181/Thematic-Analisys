@@ -8,7 +8,7 @@ Estoy en proceso de realizar un análisis temático basado en una encuesta, en l
 "Herramientas de UNCode":  Se refiere a las utilidades integradas en la plataforma UNCode diseñadas para reforzar el aprendizaje formativo y simplificar el desarrollo de habilidades de programación. Entre estas se encuentran la "Custom input", que permite a los estudiantes ejecutar pruebas personalizadas en su código para favorecer el aprendizaje autónomo; el "Linter", un analizador estático que destaca problemas sintácticos y de estilo en el código Python, promoviendo la corrección de errores y el aprendizaje de buenas prácticas de programación; y "Python Tutor", una herramienta que ofrece la visualización paso a paso de la ejecución de un programa, permitiendo a los estudiantes comprender mejor el flujo de ejecución y depurar sus códigos de manera efectiva.
 '
 
-Mi objetivo es categorizar las respuestas a la encuesta en una o más categorías. Por favor, clasifica cada respuesta en las categorías identificadas y devuelve la respuesta junto a las categorías a las que pertenece.
+Mi objetivo es categorizar las respuestas a la encuesta en una o más categorías. Por favor, clasifica cada respuesta en las categorías identificadas y devuelve la respuesta junto a un guión " - " y las categorías a las que pertenece en la misma linea.
 A continuación, compartiré las respuestas que hemos recogido de esta encuesta, cada una de las cuales está separada por un punto y coma (';'). Mi objetivo es identificar, categorizar y entender los temas que emergen de estas respuestas. Ayúdame generando el listado de categorías principales junto con su descripción. 
 
 Datos: "
@@ -82,4 +82,4 @@ Es una herramienta que se adapta a las necesidades de los estudiantes. Nos permi
 Porque se pueden ver claramente algunos outputs esperados, es facil usar multiples inputs y tiene conexion con python tutor (lo que permite entender mejor el codigo). Ademas, uncode ofrece una retroalimentacion inmediata.;
 Por ser capaz de mostrar la coincidencia entre la salida y las respuestas esperadas, y permitir visualizar como cambian las variables a medida que se ejecuta el codigo;
 dio la oportunidad de poner en practica los conocimientos adquiridos en las clases a pesar de la virtualidad. Tambien fue muy util para identificar problemas y plantear diferentes soluciones segun fuesen requeridas;
-'
+"
